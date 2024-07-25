@@ -19,7 +19,7 @@ This Telegram Mini App showcases:
 
 1. Clone the repository:
 ```
-   git clone https://github.com/your-username/Make-TON-Telegram-Mini-App-1.git
+   git clone https://github.com/nikandr-surkov/Make-TON-Telegram-Mini-App-1.git
    cd Make-TON-Telegram-Mini-App-1
 ```
 
